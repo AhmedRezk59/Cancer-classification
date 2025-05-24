@@ -1,0 +1,8 @@
+[root][2025-05-22 22:28:16][INFO][logging_config][setup_logging][39]: Logger started
+[__main__][2025-05-22 22:28:16][INFO][main][main][16]: Running main method
+[__main__][2025-05-22 22:28:16][INFO][main][main][18]: Data extraction completed
+[analysis.analysis][2025-05-22 22:28:16][INFO][analysis][analyze_dataframe][15]: Running Exploratory Data Analysis
+[analysis.analysis][2025-05-22 22:28:16][INFO][analysis][find_missing_values][34]: Finding missing values
+[__main__][2025-05-22 22:28:16][INFO][main][main][21]: Dataframe shape after dropping 'id' column: (100, 9)
+[core.decorators][2025-05-22 22:28:16][INFO][decorators][wrapper][18]: Calling lof_observation
+[matplotlib.pyplot][2025-05-22 22:28:16][DEBUG][pyplot][switch_backend][339]: Loaded backend tkagg version 8.6.

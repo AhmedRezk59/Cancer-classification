@@ -1,0 +1,3 @@
+[root][2025-05-22 18:22:49][INFO][logging_config][setup_logging][39]: Logger started
+[__main__][2025-05-22 18:22:49][INFO][main][main][15]: Running main method
+[__main__][2025-05-22 18:22:49][INFO][main][main][17]: Data extraction completed

@@ -1,0 +1,6 @@
+[root][2025-05-22 18:33:42][INFO][logging_config][setup_logging][39]: Logger started
+[__main__][2025-05-22 18:33:42][INFO][main][main][15]: Running main method
+[__main__][2025-05-22 18:33:42][INFO][main][main][17]: Data extraction completed
+[analysis.analysis][2025-05-22 18:33:42][INFO][analysis][analyze_dataframe][15]: Running Exploratory Data Analysis
+[analysis.analysis][2025-05-22 18:33:42][INFO][analysis][find_missing_values][34]: Finding missing values
+[__main__][2025-05-22 18:33:42][INFO][main][main][20]: Dataframe shape after dropping 'id' column: (100, 9)

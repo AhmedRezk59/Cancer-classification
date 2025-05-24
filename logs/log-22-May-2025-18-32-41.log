@@ -1,0 +1,5 @@
+[root][2025-05-22 18:32:41][INFO][logging_config][setup_logging][39]: Logger started
+[__main__][2025-05-22 18:32:41][INFO][main][main][15]: Running main method
+[__main__][2025-05-22 18:32:41][INFO][main][main][17]: Data extraction completed
+[analysis.analysis][2025-05-22 18:32:41][INFO][analysis][analyze_dataframe][15]: Running Exploratory Data Analysis
+[analysis.analysis][2025-05-22 18:32:41][INFO][analysis][find_missing_values][34]: Finding missing values
